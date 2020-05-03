@@ -11,10 +11,9 @@
 Interface Mobile nativa com React Native que lista produtos à venda, ao clicar no produto ele é adicionado ao carrinho, navegando para o carrinho podemos adicionar mais produtos na quantidade ou diminuir, tudo é atualizado em tempo real com o preço final da compra!
 
 ## 💅 Layout da aplicação
-
 <img src="./iphone_img1.png" width="300px">
-<img src="./iphone_img2.png">
-<img src="./iphone_img3.png">
+<img src="./iphone_img2.png" width="300px">
+<img src="./iphone_img3.png" width="300px">
 
 ---
 
