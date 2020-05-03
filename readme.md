@@ -14,9 +14,10 @@ Interface Mobile nativa com React Native que lista produtos à venda, ao clicar 
 <p float="left">
   <img src="./iphone_img1.png" width="300px">
   <img src="./iphone_img2.png" width="300px">
+  <img src="./iphone_img3.png" width="300px">
 </p>
 
-<img src="./iphone_img3.png" width="300px">
+
 
 ---
 
